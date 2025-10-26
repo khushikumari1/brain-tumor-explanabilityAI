@@ -1,0 +1,13 @@
+tensorflow 
+keras 
+opencv-python 
+matplotlib 
+numpy 
+pandas 
+scikit-learn 
+flask
+gradio
+pillow
+streamlit
+plotly
+reportlab
