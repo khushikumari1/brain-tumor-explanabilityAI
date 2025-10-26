@@ -57,8 +57,8 @@ The CNN model consists of:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd brain-tumor
+   git clone "https://github.com/khushikumari1/brain-tumor-explanabilityAI"
+   cd brain-tumor-explanabilityAI
    ```
 
 2. **Create and activate virtual environment**
@@ -226,3 +226,4 @@ For questions, issues, or contributions, please:
 ---
 
 **Remember**: This is a research tool. Always consult medical professionals for clinical decisions! 🏥
+
