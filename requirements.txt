@@ -10,4 +10,5 @@ gradio
 pillow
 streamlit
 plotly
+qrcode
 reportlab
